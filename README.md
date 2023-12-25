@@ -1,0 +1,2 @@
+# bandNameGenerator
+made using EJS
